@@ -7,7 +7,7 @@ Personal academic portfolio showcasing my research, publications, projects, and 
 - NLP & LLMs
 - Medical AI
 - Explainable AI
-- Human-Centered AI & XR
+- Human-Centered AI 
 
 ### Website
 Visit my portfolio: **[Portfolio Website](https://thisisoindrila.github.io/)**
